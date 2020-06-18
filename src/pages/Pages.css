@@ -1,0 +1,43 @@
+
+.Title{
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row: 1;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 65px;
+  display: flex;
+  align-items: center;
+  color: #001B36;
+  width: 100%;
+}
+.Grafics{
+  display:flex;
+  flex-wrap: wrap;
+  flex-direction:row;
+  flex: 1 1 auto;
+}
+
+.Box-Grafic{
+  min-width: 437px;
+  max-height:350px;
+  padding: 30px;
+  background: #FFFFFF;
+  border-radius: 4px;
+  box-shadow: 0px 0px 2px 2px #D8DDE6;
+  display:block;
+  margin:12px;
+
+}
+
+
+ .Grafic-Title{
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: #035A27;
+
+}
