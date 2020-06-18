@@ -12,14 +12,14 @@
   color: #001B36;
   width: 100%;
 }
-.Grafics{
+.Graphics{
   display:flex;
   flex-wrap: wrap;
   flex-direction:row;
   flex: 1 1 auto;
 }
 
-.Box-Grafic{
+.Box-Graphic{
   min-width: 437px;
   max-height:350px;
   padding: 30px;
@@ -32,7 +32,7 @@
 }
 
 
- .Grafic-Title{
+ .Graphic-Title{
   font-style: normal;
   font-weight: 600;
   font-size: 14px;

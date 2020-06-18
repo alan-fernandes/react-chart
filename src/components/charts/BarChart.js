@@ -64,8 +64,8 @@ class BarChart extends Component {
       return <div>Loading...</div>;
     } else {
       return (
-        <div className="Box-Grafic">
-          <h2 className="Grafic-Title">{this.props.title}</h2>
+        <div className="Box-Graphic">
+          <h2 className="Graphic-Title">{this.props.title}</h2>
           <Bar
             data={data}
            

@@ -12,7 +12,7 @@ const Page1 = () => {
       <Navbar  active="page1" />
       <div className="Container">
         <div className="Title"> Page 1 </div>
-        <div className="Grafics">
+        <div className="Graphics">
           <BarChart title="BARS CHART" url="https://private-afe609-testefront.apiary-mock.com/anual-result"></BarChart>
 
           <PieChart title="PIE CHART" url="https://private-afe609-testefront.apiary-mock.com/anual-percentage"></PieChart>

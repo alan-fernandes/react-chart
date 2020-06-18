@@ -10,7 +10,7 @@ const Page2 = () => {
       <Navbar active="page2" />
       <div className="Container">
         <div className="Title"> Page 2 </div>
-        <div className="Grafics">
+        <div className="Graphics">
           <LineChart title="line chart 2 data" url="https://private-afe609-testefront.apiary-mock.com/time-data"></LineChart>
         </div>
       </div>
