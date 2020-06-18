@@ -6,12 +6,16 @@
 
 ## Instalação
 
+```sh
+npm i
+```
 
+## Inicio
 
 ```sh
 npm start
 ```
 
 
-## Meta
+## Perfil
 Alan Fernandes - https://www.linkedin.com/in/alan-fernandes-78153a22/
